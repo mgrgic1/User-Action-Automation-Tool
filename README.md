@@ -8,7 +8,6 @@ For example, if the user wanted to open Firefox, go to Youtube, type in the name
 <h3>Demonstration</h3>
 <img src='https://user-images.githubusercontent.com/44408426/210157035-9066b71a-9a02-460b-962b-c62890b37093.gif'></img>
 
-
 <h3>Custom commands:</h3>
 <ul>
 <li>MOVE (X)x(Y): Move mouse to X and Y position</li>
